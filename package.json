@@ -1,0 +1,17 @@
+{
+  "name": "sheet_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^7.14.0",
+    "googleapis": "^97.0.0",
+    "puppeteer": "^13.5.1",
+    "yargs": "^17.4.0"
+  }
+}
